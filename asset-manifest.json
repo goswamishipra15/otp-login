@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/otp-login/static/css/main.415e737c.css",
+    "main.js": "/otp-login/static/js/main.49adc522.js",
+    "index.html": "/otp-login/index.html",
+    "main.415e737c.css.map": "/otp-login/static/css/main.415e737c.css.map",
+    "main.49adc522.js.map": "/otp-login/static/js/main.49adc522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415e737c.css",
+    "static/js/main.49adc522.js"
+  ]
+}
