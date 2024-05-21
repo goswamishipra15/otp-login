@@ -14,7 +14,7 @@ const PhoneOtpForm = () => {
         event.preventDefault();
         //validation
         const regex = /[^0-9]/g;
-        if(phoneNumber.length<10 || regex.test(phoneNumber)){
+        if(phoneNumber.length !=10 || regex.test(phoneNumber)){
             alert("Invalid Phone Number");
             return;
         }
